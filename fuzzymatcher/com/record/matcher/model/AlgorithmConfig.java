@@ -1,7 +1,3 @@
-// 
-// Decompiled by Procyon v0.5.30
-// 
-
 package com.record.matcher.model;
 
 import com.record.matcher.algorithms.Algorithm;
